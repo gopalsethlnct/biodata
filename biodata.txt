@@ -2,4 +2,5 @@ Name : Gopal Gupta
 DOB : 22/11/2000
 gen : Male
 Nationality : Indian
+Address : tulsi nagar, Orai
 
